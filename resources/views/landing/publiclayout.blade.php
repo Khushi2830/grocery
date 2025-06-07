@@ -10,7 +10,7 @@
 </head>
 <body>
      
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-info">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ route("public.home") }}">{{env("APP_NAME")}}</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
